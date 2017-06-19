@@ -41,7 +41,7 @@ USAGE
 
  * Example of normalization of 3 ChIP-x genomic signal profiles computed on 100 intervals subdivided in 200 bins:
 	
-		NormChIP 100 3 200 ./Input_example/ER_ChIP-Seq_r
+		NormChIP 100 3 200 ER_ChIP-Seq_r
 
 MAINTAINERS
 -----------
