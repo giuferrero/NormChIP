@@ -43,6 +43,12 @@ USAGE
 	
 		NormChIP 100 3 200 ER_ChIP-Seq_r
 
+For further information:
+
+Ferrero, G., Miano, V., Beccuti, M., Balbo, G., De Bortoli, M., & Cordero, F. (2017). Dissecting the genomic activity of a transcriptional regulator by the integrative analysis of omics data. Scientific reports, 7(1), 8564.
+
+Please cite this work for algorithm usage.
+
 MAINTAINERS
 -----------
 
